@@ -38,7 +38,7 @@ using the CoinGecko API and exposes RESTful APIs for data access.
 - URL: http://localhost:8080/h2-console
 - JDBC URL: jdbc:h2:mem:cryptodb
 - Username: thanush
-- password: ******
+- password: 123456
 
 ## 🔹 Running the Application
 ./mvnw spring-boot:run
